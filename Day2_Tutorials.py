@@ -15,9 +15,3 @@ print ("average_value ", average_value(numbers))
 print ("Sum : ", sum(numbers))
 print("Length  = ", len(numbers))
 
-def add_even(p):
-    p = range(1,10)
-    if p%2 == 0:
-        return sum
-Total = sum
-print(Total)
